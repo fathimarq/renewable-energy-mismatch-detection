@@ -11,7 +11,6 @@ Hourly Spanish energy and weather data (`energy_dataset.csv`, `weather_features.
 ```bash
 git clone <your-repo-url>
 cd <your-repo-name>
-pip install -r requirements.txt
 ```
 
 ## Usage
